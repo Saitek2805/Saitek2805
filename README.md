@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Keiner Hurtado, Desarrollador Web en Formación
+# ¡Hola!  Soy Keiner Hurtado, Desarrollador Web en Formación
 
 🎓 Estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**.  
 💻 Apasionado por crear soluciones tecnológicas innovadoras y funcionales.  
