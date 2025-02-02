@@ -36,15 +36,7 @@
 
 ---
 
-## 🌟 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|--------------------------------|-----------------------------------------------|-----------------------------|
-| [Gestor de Tareas](enlace)     | Aplicación web para gestionar tareas diarias. | React, Node.js, MongoDB     |
-| [E-commerce](enlace)           | Tienda online con carrito de compras.         | Java, Spring Boot, MySQL    |
-| [Portafolio Personal](enlace)  | Sitio web para mostrar mis proyectos.         | HTML, CSS, JavaScript       |
-
----
 
 ## 📫 ¡Conectemos!
 
